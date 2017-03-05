@@ -1,0 +1,38 @@
+{
+	"lang": "en",
+	"status": {
+		"errorType": "success",
+		"code": 200
+	}, 
+	"timestamp": "2017-03-04T20:58:17.447Z",
+	"sessionId": "6db78c11-d120-414e-ad73-413710b8c705",
+	"result": {
+		"parameters": {
+			"color1": "Blue"
+		},
+		"contexts": [],
+		"resolvedQuery": "test lambda",
+		"source": "agent",
+		"score": 1.0,
+		"speech": "",
+		"fulfillment":
+		{
+			"messages":
+				[
+					{"speech": "",
+					"type": 0}
+				],
+			"speech": ""
+		},
+		"actionIncomplete": false,
+		"action": "",
+		"metadata":{
+			"intentId": "0819a808-3e02-4a28-9a0d-39698d489790",
+			"webhookForSlotFillingUsed": "false",
+			"intentName": "End session",
+			"webhookUsed": "true"
+		}
+	},
+	"id": "623f45c0-a5db-4369-ab70-766eee6cb40d",
+	"originalRequest": null
+}
